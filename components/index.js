@@ -1,0 +1,13 @@
+export {default as Navbar} from './navbar/Navbar';
+export {default as Header} from "./header/Header";
+export {default as Stats} from "./stats/Stats";
+export {default as Business} from "./business/Business";
+export {default as Button} from "./button/Button";
+export {default as StartSteps} from "./getStartedScreens/StartSteps";
+export {default as TypingText} from "./getStartedScreens/TypingText";
+export {default as TitleText} from "./getStartedScreens/TitleText";
+export {default as GetStarted} from "./getstarted/GetStarted";
+export {default as World} from "./world/World";
+export {default as FeedbackCard} from "./testimonialScreen/FeedbackCard";
+export {default as Testimonials} from "./testimonials/Testimonials";
+export {default as Footer} from "./footer/Footer";
