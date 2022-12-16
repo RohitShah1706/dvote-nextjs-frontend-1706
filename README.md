@@ -9,7 +9,7 @@ The votes pushed are immutable and so the election process becomes much more sec
 
 This is a Prototype design - has not been finished.
 
-Frontend Prototype - [DVOTE](https://github.com/RohitShah1706/dvote-nextjs-frontend-1706)  
+Frontend Prototype - [DVOTE](https://dvote-nextjs-frontend-1706.on.fleek.co/)  
 Hardhat code & Waffle tests - [dvote-hardhat-fcc](https://github.com/RohitShah1706/dvote-hardhat-1706)
 
 ## Screenshots
